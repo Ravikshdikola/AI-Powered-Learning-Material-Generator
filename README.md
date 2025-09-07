@@ -33,7 +33,7 @@ Download & Use – Educators and learners can instantly use the generated conten
 🛠️ Installation & Usage
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/learning_material_illustrator_app.git
+git clone https://github.com/Ravikshdikola/AI-Powered-Learning-Material-Generator.git
 cd learning_material_illustrator_app
 
 2️⃣ Install dependencies
