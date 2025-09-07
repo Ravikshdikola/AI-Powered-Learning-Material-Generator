@@ -19,6 +19,9 @@ learning_material_illustrator_app
 │── scripts/                 # Main Streamlit application code  
 
 
+youtube link to acess the demonstration : https://youtu.be/28vH-jQwsHU
+
+
 🚀 Features
 
 ✅ Generate illustrative images for educational topics using AI
