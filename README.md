@@ -33,13 +33,17 @@ Download & Use – Educators and learners can instantly use the generated conten
 🛠️ Installation & Usage
 
 1️⃣ Clone the repository
+
 git clone https://github.com/Ravikshdikola/AI-Powered-Learning-Material-Generator.git
+
 cd learning_material_illustrator_app
 
 2️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run the Streamlit app
+
 streamlit run scripts/app.py
 
 🌟 Use Cases
