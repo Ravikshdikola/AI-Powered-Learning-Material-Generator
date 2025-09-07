@@ -1,4 +1,4 @@
-🎨 Learning Material Illustrator App
+🎨 AI-Powered-Learning-Material-Generator App
 
 An AI-powered Streamlit application that generates educational illustrations and auto-creates PowerPoint presentations for learning materials. This project is designed to make complex topics visually engaging, helping educators, students, and content creators bring lessons to life with minimal effort.
 
