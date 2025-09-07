@@ -16,17 +16,24 @@ learning_material_illustrator_app
 🚀 Features
 
 ✅ Generate illustrative images for educational topics using AI
+
 ✅ Auto-export content into a ready-to-use PowerPoint (PPTX)
+
 ✅ Easy-to-use Streamlit interface
+
 ✅ Customize lesson topics dynamically
+
 ✅ Save outputs for future use
 
 
 📖 How It Works
 
 Input Topics – Add lesson titles like Solar System, Water’s Journey, etc.
+
 AI Illustration – The app generates creative illustrations for each topic.
+
 PowerPoint Export – All slides are automatically compiled into a PowerPoint file.
+
 Download & Use – Educators and learners can instantly use the generated content.
 
 
@@ -49,8 +56,11 @@ streamlit run scripts/app.py
 🌟 Use Cases
 
 📚 Educators – Quickly create engaging teaching material
+
 👩‍🎓 Students – Visualize concepts for better understanding
+
 🧑‍💻 Content Creators – Make interactive learning presentations
+
 🏫 Institutions – Save time preparing digital lessons
 
 
