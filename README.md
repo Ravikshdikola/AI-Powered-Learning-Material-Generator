@@ -5,11 +5,17 @@ An AI-powered Streamlit application that generates educational illustrations and
 
 Project Structure:
 learning_material_illustrator_app
+
 │── README.md                # Project documentation  
+
 │── readme.html              # Beautifully styled HTML description of the project  
+
 │── ep/                      # Thumbnail for the demo video  
+
 │── generated_ppt/           # Auto-generated PowerPoint presentations  
+
 │── presentation_slide/      # Inspiration & use cases for the project  
+
 │── scripts/                 # Main Streamlit application code  
 
 
